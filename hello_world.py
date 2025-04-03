@@ -13,7 +13,7 @@ name = input("Type your name: ")
 age = input("Type your age: ")
 # name and age collected and displayed below along with the closing message
 print("My name is {} and I am {} years old.".format(name, age))
-print("Hello, World!")
+print("Git is Awesome!")
 # closing the program by making the user hit enter
 close_the_program = input("Close the program by pressing the enter key")
 # cleanup
